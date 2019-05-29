@@ -5,6 +5,6 @@ Takeaways: <br />
 2. Deep Convolutional Neural Networks from scratch with Tensorflow. <br />
 
 TO Do: <br />
-- [x] Get rid of avoidable bias. <br />
--[ ] Model has High Variance, need to reduce it. <br />
--[ ] Use Learning Rate Scheduler.
+* [x] Get rid of avoidable bias.
+* [ ] Model has High Variance, need to reduce it.
+* [ ] Use Learning Rate Scheduler.
